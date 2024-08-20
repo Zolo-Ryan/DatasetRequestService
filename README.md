@@ -1,0 +1,1 @@
+Usage: `node req.js --url="http://localhost:3000/v2/search" --orgId="f2070b8a-0491-45cb-9f35-8599d6dd77ef" --botId="83db94fc-ca03-4e44-8a9a-c0b6fad0c172" --type="vector" --query="seed" --datasetId="9b1839c0-137a-4f6f-9ea9-99c30c3f8125" --searchColumn="dealerName" --topK=10 --algorithm="bge"`
